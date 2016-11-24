@@ -6,3 +6,6 @@ Autor: PP
 affiliation: NeSI
 
 Title: Draft test
+
+references:
+(from the ref.bib file)
